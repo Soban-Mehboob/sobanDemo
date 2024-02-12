@@ -1,3 +1,4 @@
 # sobanDemo
-This is my First Git repo
-author soban
+This is my First Git Repository.
+<br/>
+Author-Soban
